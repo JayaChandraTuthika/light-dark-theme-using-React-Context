@@ -1,0 +1,28 @@
+.bottom-section {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dark-bg {
+  background-color: black;
+}
+.not-found-image {
+  height: 250px;
+}
+.not-found-heading {
+  font-size: 30px;
+  font-weight: 500;
+  color: #334155;
+}
+
+.not-found-para {
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+}
+.dark-heading {
+  color: white;
+}
